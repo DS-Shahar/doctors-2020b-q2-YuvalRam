@@ -1,6 +1,6 @@
 package yuval;
 import java.util.*;
-public class bagrut2020_2 {
+public class L17_3 {
 	public static Scanner reader = new Scanner (System.in);
 
 
@@ -10,6 +10,9 @@ public class bagrut2020_2 {
 		for (int i = 0; i < doctors.length; i++) {
 			System.out.println(doctors[i]);
 		}
+		
+		Athlete a = new Athlete("Ofri", 2);
+		Athlete b = new Athlete("Reut", 4);
 
 	}
 	
